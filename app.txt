@@ -1,2 +1,3 @@
 hello to poll scm
 adding new line
+adding new line
